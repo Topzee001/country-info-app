@@ -31,7 +31,7 @@ https://github.com/Topzee001/country-info-app
 ```
 Nvigate to Project Directory
 ```bash
-cd country_info_app
+cd country-info-app
 ```
 Install Dependencies
 ```bash
