@@ -25,6 +25,23 @@ Flutter - Cross-platform UI toolkit.
 - Dart - Programming language.
 
 ## Installation & Setup
+Clone the Repository
+```bash
+
+```
+Nvigate to Project Directory
+```bash
+cd country_info_app
+```
+Install Dependencies
+```bash
+flutter pub get
+```
+Run the App
+```bash
+flutter run
+```
+
 
 ##  Theming Support
 
