@@ -1,16 +1,52 @@
-# country_info_app
+# Country Info App
 
-A new Flutter project.
+The Country Info App is a Flutter application that provides details about various countries using an external API. The app follows the MVVM (Model-View-ViewModel) architecture and uses the Provider package for state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetch and display country data from an API.
 
-A few resources to get you started if this is your first Flutter project:
+- Search functionality to filter countries by name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Light and Dark theme support.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Optimized MVVM Architecture with a clean separation of concerns.
+
+## Technologies Used
+
+Flutter - Cross-platform UI toolkit.
+
+- Provider - State management.
+
+- HTTP - API communication.
+
+- MVVM Architecture - Code structuring.
+
+- Dart - Programming language.
+
+## Installation & Setup
+Clone the Repository
+```bash
+https://github.com/Topzee001/country-info-app
+```
+Nvigate to Project Directory
+```bash
+cd country-info-app
+```
+Install Dependencies
+```bash
+flutter pub get
+```
+Run the App
+```bash
+flutter run
+```
+
+
+##  Theming Support
+
+The app supports both Light and Dark themes. The theme mode can be toggled within the app.
+
+
+
+
